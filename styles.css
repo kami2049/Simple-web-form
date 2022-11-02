@@ -1,9 +1,9 @@
 body{
-    background-color: bisque;
+    background-color: #ccc;
 }
 
 div{
-    background-color: aliceblue;
+    background-color: whitesmoke;
     width: 600px;
     margin: auto;
 }
