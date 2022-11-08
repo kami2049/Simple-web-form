@@ -9,7 +9,7 @@
        <header>
             <h1>Contact Us</h1>
        </header>
-        <form action="action_page.php" method="post"> 
+        <form action="formdata.php" method="post"> 
             <label for="username">Username:</label><br>
             <input type="text" id="username" name="username"><br><br>
 

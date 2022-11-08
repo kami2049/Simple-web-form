@@ -5,9 +5,15 @@ body{
 div{
     background-color:#7AB8BF;
     border-radius: 25px;
-    margin: auto;
+    margin: 100px auto;
     width: 65%;
     padding: 25px;
+}
+
+.formdata{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
 }
 
 header{
